@@ -1,4 +1,3 @@
-# nightmayfire
 Just a systems engineer.
 
 ## Stack
