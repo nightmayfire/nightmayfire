@@ -1,7 +1,7 @@
 # nightmayfire
 Just a systems engineer.
 
-### Stack
+## Stack
 - Linux
 - C
 - Shell
